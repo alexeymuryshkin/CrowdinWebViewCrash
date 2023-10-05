@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">CrowdinWebViewCrash</string>
+    <string name="greeting">Hi, Developer</string>
+</resources>
